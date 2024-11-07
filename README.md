@@ -10,7 +10,7 @@ Official Pytorch implementation of **Unrolled Decomposed Unpaired Learning for C
 [Shiqi Wang](https://scholar.google.com/citations?user=Pr7s2VUAAAAJ&hl=zh-CN)
 
 
-[[`Arxiv`](http://arxiv.org/abs/2408.12316)] [[`Project Page`]()] [[`Poster`](src/figures/ECCV_poster.png)] [[`Video`](https://www.youtube.com/watch?v=gn_IB1-FEY8&t=2s)]
+[[`Arxiv`](http://arxiv.org/abs/2408.12316)] [[`Invited_Talk`](src/figures/Presentation in NTU.pdf)] [[`Poster`](src/figures/ECCV_poster.png)] [[`Video`](https://www.youtube.com/watch?v=gn_IB1-FEY8&t=2s)]
 
 ## Overview
 <p align="left">
